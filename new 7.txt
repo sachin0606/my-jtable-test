@@ -1,0 +1,36 @@
+insert into tbl_areamaster values('Kurnakar chal',5)
+insert into tbl_areamaster values('Nadi galli',4)
+insert into tbl_areamaster values('Go-mal',8)
+insert into tbl_areamaster values('Shankar Nagar',7)
+insert into tbl_areamaster values('Nidasoshi raod',5)
+insert into tbl_areamaster values('Banagar galli',4)
+insert into tbl_areamaster values('Mali galli',4)
+insert into tbl_areamaster values('Beereshwar nagar',9)
+insert into tbl_areamaster values('AJ patil chal',6)
+insert into tbl_areamaster values('Azad Road',4)
+insert into tbl_areamaster values('Namaj mal',7)
+insert into tbl_areamaster values('Ankali road',7)
+insert into tbl_areamaster values('Housing colony',6)
+insert into tbl_areamaster values('Hanuman Nagar',2)
+insert into tbl_areamaster values('Solapur Gate',11)
+insert into tbl_areamaster values('Maddi Galli',5)
+insert into tbl_areamaster values('Math Galli',6)
+insert into tbl_areamaster values('P B Road',1)
+insert into tbl_areamaster values('Subhash road',1)
+insert into tbl_areamaster values('Police Quarters',2)
+insert into tbl_areamaster values('other',11)
+
+
+
+AgentName	id
+Amru	1
+Chidanand	2
+Somayya	3
+Sudha	4
+Savitri	5
+Gouri	6
+Rajeshwari	7
+Vishal	8
+Pradeep	9
+Patil	10
+Office	11
